@@ -21,8 +21,7 @@
 
 <h1 align="left">My Space</h1>
 
-Meu blog pessoal pode ser acessado [clicando aqui](https://strangeunit28.github.io/StrangeUnit28/). Nele falo um pouco mais sobre mim e 
-sobre os projetos que já desenvolvi. 
+My personal blog can be accessed by clicking [here](https://strangeunit28.github.io/StrangeUnit28/). In my blog I talk a little more about myself and about the projects I already developed. 
 
 (ainda em desenvolvimento)
 
