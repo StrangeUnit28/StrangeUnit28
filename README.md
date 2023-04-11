@@ -19,6 +19,13 @@
 
 - 📫 How to reach me **rflbosi@gmail.com**
 
+<h1 align="left">My Space</h1>
+
+Meu blog pessoal pode ser acessado [clicando aqui](https://strangeunit28.github.io/StrangeUnit28/). Nele falo um pouco mais sobre mim e 
+sobre os projetos que já desenvolvi. 
+
+(ainda em desenvolvimento)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rafael-bosi-ab22a7210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael bosi" height="30" width="40" /></a>
