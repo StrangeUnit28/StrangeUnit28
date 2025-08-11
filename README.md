@@ -11,9 +11,9 @@
 
 <h1 align="left">What I'm doing</h1>
 
-- 🔭 I’m currently working on **CSG**
+- 🔭 I’m currently working on **Actar Peers Group**
 
-- 🌱 I’m currently learning **C# and Azure Devops**
+- 🌱 I’m currently learning about **Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StrangeUnit28](https://github.com/StrangeUnit28)
 
